@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549922716 source:d:\projects\github\exercicios-aed2\exercicio1\exercicio6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
